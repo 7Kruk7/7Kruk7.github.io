@@ -1,8 +1,8 @@
-#My Portfolio
+# My Portfolio
 
-##On this web page you can find detailed information about my own/academic projects.
+## On this web page you can find detailed information about my own/academic projects.
 
-### Project Overview
+### Projects Overview
 
 | Project Name | Tech Stack | Type |
 | :--- | :--- | :---|
